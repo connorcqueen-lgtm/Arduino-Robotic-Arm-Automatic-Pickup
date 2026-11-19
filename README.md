@@ -90,3 +90,11 @@ The automatic movement sequence must be supervised, as the current program does 
 ## Development Status
 
 Functional prototype with manual control, ultrasonic detection, and a programmed automatic pickup sequence. Further testing and mechanical improvements are planned.
+
+## Video Demonstration
+
+Watch the robotic arm demonstration on YouTube:
+
+[![Robotic Arm Demonstration](https://img.youtube.com/vi/fwJvGjtJHF4/0.jpg)](https://youtu.be/fwJvGjtJHF4)
+
+[Watch on YouTube](https://youtu.be/fwJvGjtJHF4)
