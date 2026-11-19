@@ -99,16 +99,23 @@ Watch the robotic arm demonstration on YouTube:
 
 [Watch on YouTube](https://youtu.be/fwJvGjtJHF4)
 
-## CAD Design and Modifications
+## Original Design and Attribution
 
-The robotic arm is based on the [original robotic arm design](https://www.thingiverse.com/thing:4782837).
+This robotic arm is based on [Easy Robot Arm (SG90 servos & now steppers too) UPDATED 03/21](https://www.thingiverse.com/thing:4782837), created by [mobiobi](https://www.thingiverse.com/mobiobi/designs).
 
-The design was adapted using Autodesk Fusion 360 to accommodate the project's hardware and mechanical requirements.
+The original design is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-Modifications include:
-- Integration of two synchronized shoulder servos.
-- Adaptations for Miuzei MS18 9g servo motors.
-- Adjustments to the arm geometry, including 60 mm arm sections.
-- Modifications for the Arduino-controlled robotic arm assembly.
+### Modifications
 
-Editable Fusion 360 models and 3D-printable files are provided in the `CAD` directory.
+The original design was adapted in Autodesk Fusion 360 for this project. Modifications include:
+
+- A redesigned shoulder assembly accommodating two synchronized Miuzei MS18 servo motors.
+- Modified arm sections measuring 60 mm.
+- Adjustments to accommodate the project's mechanical configuration and hardware.
+
+The modified CAD models and printable files are provided in the `CAD` directory.
+
+**Original design credit:** mobiobi  
+**Modified design and Arduino programming:** Connor Queen
+
+The original creator is credited in accordance with the CC BY 4.0 license. These modifications are independent and are not endorsed by the original creator.
