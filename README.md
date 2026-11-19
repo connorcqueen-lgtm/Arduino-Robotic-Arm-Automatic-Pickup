@@ -119,3 +119,10 @@ The modified CAD models and printable files are provided in the `CAD` directory.
 **Modified design and Arduino programming:** Connor Queen
 
 The original creator is credited in accordance with the CC BY 4.0 license. These modifications are independent and are not endorsed by the original creator.
+
+## Testing and Results
+
+The robotic arm successfully completed its automatic pickup,
+lifting, lowering, and release sequence.
+
+[View the Complete Testing and Results Report](docs/Testing_and_Results.md)
