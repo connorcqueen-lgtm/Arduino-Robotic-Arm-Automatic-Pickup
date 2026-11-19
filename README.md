@@ -98,3 +98,17 @@ Watch the robotic arm demonstration on YouTube:
 [![Robotic Arm Demonstration](https://img.youtube.com/vi/fwJvGjtJHF4/0.jpg)](https://youtu.be/fwJvGjtJHF4)
 
 [Watch on YouTube](https://youtu.be/fwJvGjtJHF4)
+
+## CAD Design and Modifications
+
+The robotic arm is based on the [original robotic arm design](https://www.thingiverse.com/thing:4782837).
+
+The design was adapted using Autodesk Fusion 360 to accommodate the project's hardware and mechanical requirements.
+
+Modifications include:
+- Integration of two synchronized shoulder servos.
+- Adaptations for Miuzei MS18 9g servo motors.
+- Adjustments to the arm geometry, including 60 mm arm sections.
+- Modifications for the Arduino-controlled robotic arm assembly.
+
+Editable Fusion 360 models and 3D-printable files are provided in the `CAD` directory.
